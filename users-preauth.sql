@@ -1,0 +1,1 @@
+CREATE TABLE users(id SERIAL,email TEXT  PRIMARY KEY NOT NULL,otp char(6) NOT NUll);
